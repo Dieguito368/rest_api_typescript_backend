@@ -1,5 +1,5 @@
 .env
 node_modules/
-server/coverage/
+coverage/
 package-lock.json
 dist
